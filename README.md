@@ -1,16 +1,48 @@
 # Simple-To-Do-List
 HabitCore is a modern and fully-responsive to-do list web application built with HTML, CSS, and JavaScript. It helps you organize your tasks with priority settings, due dates, reminders, and intuitive filters.
 
-✅ Key Features:
-Task Creation: Add tasks with a title, priority level (low, medium, high), due date, and optional reminder.
-Dynamic Task Management: Mark tasks as complete, edit existing tasks, or delete them with ease.
-Priority & Status Filters: Instantly filter tasks based on status (All, Pending, Completed) or priority.
-Visual Task Stats: See real-time statistics for total, completed, and pending tasks.
-Reminders: Get notified in-app and via browser alerts when a task’s reminder time hits.
-Responsive Design: Mobile-friendly layout that adapts to all screen sizes.
-Smooth UI Effects: Includes animations, transitions, badges, and notification banners.
 
-🚀 Tech Stack:
-HTML5 + CSS3: Clean layout, gradient backgrounds, and responsive design.
-Vanilla JavaScript (ES6+): Handles task logic, filtering, reminders, and UI interactions.
+____________________________________________________________________________________________________
 
+
+✅ KEY FEATURES
+
+🆕 Task Creation
+Add tasks with a title, priority level (low, medium, high), due date, and optional reminder.
+
+🔄 Dynamic Task Management
+Edit, complete, or delete tasks easily from the interface.
+
+🎯 Priority & Status Filters
+Instantly filter tasks by:
+Status: All, Pending, Completed
+Priority: Low, Medium, High
+
+📊 Visual Task Statistics
+Get real-time counts for:
+Total tasks
+Completed tasks
+Pending tasks
+
+⏰ Reminders & Alerts
+Receive in-app and browser notifications when a task reminder is due.
+
+📱 Responsive Design
+Optimized layout for desktops, tablets, and mobile devices.
+
+✨ Polished UI/UX
+Features subtle animations, color-coded badges, and notification banners.
+
+
+____________________________________________________________________________________________________
+
+
+🚀 Tech Stack
+
+🔹 HTML5 + CSS3
+Clean, semantic structure with responsive design and gradient visuals.
+
+🔸 Vanilla JavaScript (ES6+)
+Handles task logic, DOM manipulation, filtering, and real-time interactions without any libraries or frameworks.
+
+____________________________________________________________________________________________________
